@@ -1,5 +1,5 @@
 
-I'm a Pratikshya Parajuli based in Itahari. Welcome to my GitHub profile!
+Hello, I'm Pratikshya Parajuli based in Itahari. Welcome to my GitHub profile!
 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/pratikshya-parajuli-25714b293/)
