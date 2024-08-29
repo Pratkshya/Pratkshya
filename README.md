@@ -19,5 +19,9 @@ Here's something about me :
 - C
 - C++
 - Python
+- Javascript
+- Html
+- CSS
+
 
 Feel free to explore my repositories and connect with me! Let's learn and grow together. 
