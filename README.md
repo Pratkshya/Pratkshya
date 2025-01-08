@@ -23,6 +23,7 @@ Here's something about me :
 - Html
 - CSS
 - Flask
+- MySQL
 
 
 Feel free to explore my repositories and connect with me! Let's learn and grow together. 
