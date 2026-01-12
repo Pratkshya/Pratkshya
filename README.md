@@ -16,14 +16,7 @@ Here's something about me :
 - [Instagram](https://www.instagram.com/pra_tikshya_/?hl=en)
 
 ## I’m currently learning :
-- C
-- C++
-- Python
-- Javascript
-- Html
-- CSS
-- Flask
-- MySQL
+- React Js
 
 
 Feel free to explore my repositories and connect with me! Let's learn and grow together. 
